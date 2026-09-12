@@ -1,0 +1,18 @@
+# Generated data (regenerate via build_seed_dataset.py + collect_docs.py)
+data/
+
+# Trained model artifacts (large binary files -- regenerate via the notebook,
+# or use Git LFS if you specifically want to version them)
+finetuned_eduguide_adapter/
+artifacts/
+eduguide_lora_checkpoints/
+eduguide_artifacts.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
