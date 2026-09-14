@@ -304,7 +304,7 @@ wordcloud>=1.9.0
 - **Base model:** [google/flan-t5-base](https://huggingface.co/google/flan-t5-base) — Google Research
 - **Embeddings:** [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) — sentence-transformers
 - **Documentation sources:** Python.org, NumPy, pandas, scikit-learn, Hugging Face, PyTorch, Git
-- **Program:** Advanced Certification in Data Science & AI — IIT Guwahati × AlmaBetter
+
 
 ---
 
